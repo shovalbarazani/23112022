@@ -1,0 +1,14 @@
+.item {
+    width: 31.5%;
+    float: left;
+    background-color: bisque;
+    color: red;
+    margin: 10pt;
+    text-align: center;
+}
+.cart,.myCart {
+    width: 100%;
+    float: left;
+    color: blue;
+    text-align: center;
+}
